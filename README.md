@@ -67,7 +67,8 @@ A Natural Language Processing (NLP) based web app built with **Streamlit** that 
 ## 🧠 Author
 
 **Sarvam Saroha**
-🔗 [LinkedIn](https://linkedin.com/in/sarvamsaroha) | 🐙 [GitHub](https://github.com/sarvam207)
+🔗 [LinkedIn](https://linkedin.com/in/sarvamsaroha) |
+ [GitHub](https://github.com/sarvam207)
 
 
 
