@@ -1,17 +1,17 @@
-# 📱 WhatsApp Chat Analyzer
+# WhatsApp Chat Analyzer
 
 A Natural Language Processing (NLP) based web app built with **Streamlit** that analyzes WhatsApp chat exports. It gives users meaningful insights like message frequency, word usage, sentiment analysis, and more — all in a clean, interactive interface.
 
 
 
-## 🚀 Live Demo
+## Live Demo
 
 👉 [Open the App on Streamlit Cloud](https://whatsapp-chat-analyzer-by-sarvam-saroha.streamlit.app/)  
 
 
 ---
 
-## 📂 Upload Format
+## Upload Format
 
 - Export your WhatsApp chat from your phone as a **`.txt` file**.
 - The file must follow WhatsApp’s default export format (no media needed).
@@ -19,7 +19,7 @@ A Natural Language Processing (NLP) based web app built with **Streamlit** that 
 
 ---
 
-## 🔍 Features
+## Features
 
 ✅ **Overall Statistics**
 - Total messages, words, media, and links  
@@ -43,12 +43,12 @@ A Natural Language Processing (NLP) based web app built with **Streamlit** that 
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
-- 🐍 Python
-- 📊 Pandas, Numpy, Seaborn, Matplotlib
-- 🧠 NLTK (VADER)
-- 🌐 Streamlit
+- Python
+- Pandas, Numpy, Seaborn, Matplotlib
+- NLTK (VADER)
+- Streamlit
 
 ---
 
