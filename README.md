@@ -52,7 +52,7 @@ A Natural Language Processing (NLP) based web app built with **Streamlit** that 
 
 ---
 
-## 📄 Example Chat Export
+## Chat Export Demo
 
 > Make sure to export without media.
 > Example format:
@@ -64,7 +64,7 @@ A Natural Language Processing (NLP) based web app built with **Streamlit** that 
 
 ---
 
-## 🧠 Author
+## Author
 
 **Sarvam Saroha**
 🔗 [LinkedIn](https://linkedin.com/in/sarvamsaroha) |
